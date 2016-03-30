@@ -1,0 +1,28 @@
+name: codevinsky
+favicon: null
+layout_spectrum: 0.7836726370733231
+typography_spectrum: 0.628129017772153
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.36437826906330884
+  lightness: 0.6669806449208409
+  saturation: 0.6942617679014802
+  rhythmicContrast: 0.6848603151738644
+purpose: []
