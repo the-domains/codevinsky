@@ -1,7 +1,7 @@
 name: codevinsky
 favicon: null
-layout_spectrum: 0.7836726370733231
-typography_spectrum: 0.628129017772153
+layout_spectrum: 0.15442
+typography_spectrum: 0.65572
 title: "808's and line breaks "
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.36437826906330884
-  lightness: 0.6669806449208409
-  saturation: 0.6942617679014802
-  rhythmicContrast: 0.6848603151738644
+  brandStrength: 0.0625
+  lightness: 0.125
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
