@@ -4,7 +4,7 @@
         <description><![CDATA[808's and line breaks ]]></description>
         <link>https://thegrid.ai/codevinsky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 12:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 12:13:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/codevinsky/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Concentrics]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/codevinsky/concentrics/index.html</link>
             <guid isPermaLink="false">795c0dd6-8dfa-4602-bbac-d6836669a223</guid>
             <pubDate>Thu, 31 Mar 2016 12:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Testing Markdown]]></title>
-            <description><![CDATA[<article><h1>Testing Markdown</h1><p>#Testing Markdown</p></article>]]></description>
-            <link>https://thegrid.ai/codevinsky/testing-markdown/index.html</link>
-            <guid isPermaLink="false">efcf708f-f902-4034-a83f-48882ba0dff4</guid>
-            <pubDate>Wed, 30 Mar 2016 15:26:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
